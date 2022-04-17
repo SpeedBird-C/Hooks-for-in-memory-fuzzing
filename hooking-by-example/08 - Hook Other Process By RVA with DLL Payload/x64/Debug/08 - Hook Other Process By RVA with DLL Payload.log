@@ -1,0 +1,3 @@
+﻿  hook-by-rva-with-dll-payload.cpp
+hook-by-rva-with-dll-payload.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  08 - Hook Other Process By RVA with DLL Payload.vcxproj -> C:\Users\today_client\Documents\hooking-by-example-master\build\x64Debug\08 - Hook Other Process By RVA with DLL Payload.exe

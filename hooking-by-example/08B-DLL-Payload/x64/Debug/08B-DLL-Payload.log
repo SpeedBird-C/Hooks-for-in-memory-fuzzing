@@ -1,0 +1,6 @@
+﻿  dll-payload.cpp
+C:\Users\today_client\Documents\hooking-by-example-master\hooking-by-example\08B-DLL-Payload\dll-payload.cpp(48,10): warning C4101: 'v10': unreferenced local variable
+C:\Users\today_client\Documents\hooking-by-example-master\hooking-by-example\08B-DLL-Payload\dll-payload.cpp(47,6): warning C4101: 'v9': unreferenced local variable
+dll-payload.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library C:\Users\today_client\Documents\hooking-by-example-master\hooking-by-example\..\build\x64Debug\08B-DLL-Payload.lib and object C:\Users\today_client\Documents\hooking-by-example-master\hooking-by-example\..\build\x64Debug\08B-DLL-Payload.exp
+  08B-DLL-Payload.vcxproj -> C:\Users\today_client\Documents\hooking-by-example-master\build\x64Debug\08B-DLL-Payload.dll
